@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2",
+  "spider": "./fty.jar;md5;8a6d3aafbfc1769dd1939f98742d5b06",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -16,7 +16,7 @@
       "name": "👨‍🍳‍配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -30,7 +30,7 @@
       "name": "🐱我的┃阿里",
       "type": 3,
       "api": "csp_MyAli",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -48,7 +48,7 @@
       "name": "🦋阿里┃合集",
       "type": 3,
       "api": "csp_AliShare",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
@@ -83,7 +83,7 @@
       "name": "OK玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -308,7 +308,7 @@
       "name": "⛅️爱看AI|弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -336,7 +336,7 @@
       "name": "⚔️荐片┃手机",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 1,
@@ -351,7 +351,7 @@
       "name": "🌸厂长┃弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -365,7 +365,7 @@
       "name": "⛅️天天┃弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -382,7 +382,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
@@ -396,7 +396,7 @@
       "name": "🎃南瓜┃弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -410,7 +410,7 @@
       "name": "🍭JOJO┃弹幕",
       "type": 3,
       "api": "csp_Jiohub",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -432,38 +432,38 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺┃官源[js]",
+      "name": "官源 | 爱奇艺[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷┃官源[js]",
+      "name": "官源 | 优酷[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://codeberg.org/Miao88669/9639/raw/branch/main/JS/%E4%BC%98%E9%85%B7.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾讯┃官源[js]",
+      "name": "官源 | 腾讯[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "芒果┃官源[js]",
+      "name": "官源 | 芒果[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     {
       "key": "sp360",
       "name": "🐛360┃解析",
       "type": 3,
       "api": "csp_Sp360",
-      "jar": "./jar/okpng.jar;md5;5218ad793351fa25c2cbdff048da0bf4",
+      "jar": "./jar/okpng.jar;md5;899118fc86b7d0558957b4f10d48e3c8",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -471,22 +471,6 @@
         "danmu": true
       },
       "timeout": 25
-    },
-    {
-      "key": "A8音乐",
-      "name": "A8音乐MV",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/A8音乐MV.js"
-    },
-    {
-      "key": "DJ音乐",
-      "name": "DJ音乐",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/DJ音乐.js"
     },
     {
       "key": "哔哩音乐",
@@ -506,20 +490,6 @@
       "searchable": 0,
       "jar": "./jar/pg.jar",
       "changeable": 0
-    },
-    {
-      "key": "yinyue",
-      "name": "音乐|爱听",
-      "type": 3,
-      "api": "csp_Music",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./jar/spider.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
     },
     {
       "key": "软件教程",
@@ -578,14 +548,29 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "夸搜",
-      "name": "🐺夸搜┃搜索",
+      "key": "米搜",
+      "name": "🦋米搜┃搜索",
       "type": 3,
-      "api": "csp_QuarkPanso",
+      "api": "csp_MIPanSo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
+        "pan": "quark",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "夸搜",
+      "name": "🐌夸搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
@@ -608,19 +593,6 @@
       "name": "🦊盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -658,8 +630,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
       "style": {
         "type": "list"
       },
@@ -671,8 +643,8 @@
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
       "style": {
         "type": "list"
       },
@@ -697,8 +669,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://codeberg.org/Miao88669/9639/raw/commit/7799000a9d7a448d58c1a6ce824d7c70136719e0/KUQIMV.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -739,8 +711,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://codeberg.org/Miao88669/9639/raw/branch/main/JS/huya2.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -754,8 +726,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://codeberg.org/Miao88669/9639/raw/branch/main/JS/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -769,8 +741,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -807,18 +779,18 @@
       "ext": "./lib/biliych.json"
     },
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "csp_Bili",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
     },
     {
       "key": "少儿教育",
@@ -832,7 +804,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1329,87 +1301,87 @@
       "name": "lz",
       "hosts": [
         "vip.lz",
-        "hd.lz",
-        "v.cdnlz",
-        "yzzy1.play"
-      ],
-      "regex": [
-        "18.5333",
-        "19.52",
-        "18.6666"
+        “hd.lz”"hd.lz",
+        “v.cdnlz”"v.cdnlz",
+        “yzzy1.play”"yzzy1.play"
+      ]，],
+      “正则表达式”：["regex": [
+        “18.5333”，"18.5333",
+        “19.52”，"19.52",
+        “18.6666”"18.6666"
+      ]]
+    }，},
+    {{
+      “名称”：“ff”，"name": "ff",
+      “主持人”：["hosts": [
+        “vip.ffzy”"vip.ffzy",
+        “hd.ffzy”，"hd.ffzy",
+        “ffzy”"ffzy"
+      ]，],
+      “正则表达式”：["regex": [
+        “25.0666”，"25.0666",
+        “25.08”，"25.08",
+        “20.52”，"20.52",
+        “25.1”，"25.1",
+        “1999.25”"25.1999"
+      ]]
+    }，},
+    {{
+      “名称”：“hs”，"name": "hs",
+      “主持人”：["hosts": [
+        “火山网”"huoshan.com"
+      ]，],
+      “正则表达式”：["regex": [
+        “商品编号”"item_id="
+      ]]
+    }，},
+    {{
+      “名称”：“dy”，"name": "dy",
+      “主持人”：["hosts": [
+        抖音"douyin.com"
+      ]，],
+      “正则表达式”：["regex": [
+        “is_play_url=”"is_play_url="
+      ]]
+    }，},
+    {{
+      “名称”：“nm”，
+      “主持人”：[
+        今日头条
+      ]，
+      “正则表达式”：[
+        “视频/tos/cn”
       ]
-    },
+    }，
     {
-      "name": "ff",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "ffzy"
-      ],
-      "regex": [
-        "25.0666",
-        "25.08",
-        "20.52",
-        "25.1",
-        "25.1999"
-      ]
-    },
-    {
-      "name": "hs",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "dy",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "nm",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
+      “名称”：“cl”，
+      “主持人”：[
+        “磁铁”
+      ]，
+      “正则表达式”：[
+        “最新”
+        “直播”
+        “更新”
       ]
     }
-  ],
-  "lives": [
+  ]，
+  “生活”：[
     {
       "name": "多线ITV",
-      "type": 0,
+      “类型”：0，
       "url": "https://codeberg.org/Miao88669/9639/raw/branch/main/tvlive.txt",
-      "playerType": 1
-    },
+      “玩家类型”：1
+    }，
     {
       "name": "高速V6",
-      "type": 0,
+      “类型”：0，
       "url": "./lib/ipv6.m3u",
-      "playerType": 1
-    },
+      “玩家类型”：1
+    }，
     {
       "name": "嗅探",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML，如 Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      “类型”：0，
       "url": "./lib/xiutan.m3u"
     }
   ]
