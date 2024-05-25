@@ -1301,87 +1301,87 @@
       "name": "lz",
       "hosts": [
         "vip.lz",
-        “hd.lz”"hd.lz",
-        “v.cdnlz”"v.cdnlz",
-        “yzzy1.play”"yzzy1.play"
-      ]，],
-      “正则表达式”：["regex": [
-        “18.5333”，"18.5333",
-        “19.52”，"19.52",
-        “18.6666”"18.6666"
-      ]]
-    }，},
-    {{
-      “名称”：“ff”，"name": "ff",
-      “主持人”：["hosts": [
-        “vip.ffzy”"vip.ffzy",
-        “hd.ffzy”，"hd.ffzy",
-        “ffzy”"ffzy"
-      ]，],
-      “正则表达式”：["regex": [
-        “25.0666”，"25.0666",
-        “25.08”，"25.08",
-        “20.52”，"20.52",
-        “25.1”，"25.1",
-        “1999.25”"25.1999"
-      ]]
-    }，},
-    {{
-      “名称”：“hs”，"name": "hs",
-      “主持人”：["hosts": [
-        “火山网”"huoshan.com"
-      ]，],
-      “正则表达式”：["regex": [
-        “商品编号”"item_id="
-      ]]
-    }，},
-    {{
-      “名称”：“dy”，"name": "dy",
-      “主持人”：["hosts": [
-        抖音"douyin.com"
-      ]，],
-      “正则表达式”：["regex": [
-        “is_play_url=”"is_play_url="
-      ]]
-    }，},
-    {{
-      “名称”：“nm”，
-      “主持人”：[
-        今日头条
-      ]，
-      “正则表达式”：[
-        “视频/tos/cn”
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
       ]
-    }，
+    },
     {
-      “名称”：“cl”，
-      “主持人”：[
-        “磁铁”
-      ]，
-      “正则表达式”：[
-        “最新”
-        “直播”
-        “更新”
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
       ]
     }
-  ]，
-  “生活”：[
+  ],
+  "lives": [
     {
       "name": "多线ITV",
-      “类型”：0，
+      "type": 0,
       "url": "https://codeberg.org/Miao88669/9639/raw/branch/main/tvlive.txt",
-      “玩家类型”：1
-    }，
+      "playerType": 1
+    },
     {
       "name": "高速V6",
-      “类型”：0，
+      "type": 0,
       "url": "./lib/ipv6.m3u",
-      “玩家类型”：1
-    }，
+      "playerType": 1
+    },
     {
       "name": "嗅探",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML，如 Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      “类型”：0，
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
       "url": "./lib/xiutan.m3u"
     }
   ]
