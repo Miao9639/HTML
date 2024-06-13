@@ -49,31 +49,14 @@
       "分类值": "9&1&4&2&12&3&7&6&8&10&11"
    }
     },
-    {
-      "key": "51黑料",
-      "name": "51┃黑料",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/HeChengChaXiu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "发布地址": "https://51cg011.com/",
-      "直接播放": "1",
-      "免嗅": "1",
-      "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
-      "图片": "onload=\"loadImg(this,'&&')\"",
-      "标题": "title\" data-v-a51695bc>&&</div>",
-      "副标题": "ishot\" data-v-a51695bc>&&</div>",
-      "链接": "href=\"&&\"",
-      "播放数组": "<div class='dplayer&&</div>",
-      "播放列表": "'{&&}'",
-      "播放链接": "\"url\":\"&&\"",
-      "分类url": "https://wikis4.obcde1.com/category/{cateId}/{catePg}.html",
-      "分类": "今日吃瓜&吃瓜榜单&热门大瓜&必看大瓜&看片娱乐&学生校园&网红黑料&明星黑料&海外吃瓜&51涨知识&吃瓜看戏&领导干部&51剧场乐&伦理道德&社交媒体&擦边撩骚&骚男骚女",
-      "分类值": "wpcz&mrdg&rdsj&bkdg&ysyl&xsxy&whhl&6&whmx&whmx&hwcg&zzs&qubk&ldcg&51djc&lldd&sjmt&dcbq&snsn"
-   }
+     "key": "草莓秒播",
+     "name": "草莓秒播",
+     "type": 3,
+     "api": "./js/drpy2.min.js",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "./js/草莓秒播.js"
     },
     {
       "key": "api.sexnguon.com",
