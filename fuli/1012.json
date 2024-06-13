@@ -14,20 +14,57 @@
     }
   ],
   "sites": [
-    {
-      "key": "51",
-      "name": "51┃吃瓜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/yydf.jar;md5;0CD68E69498540733D1F22F92BC3C339",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://animal.neknput.com/category/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "今日吃瓜$wpcz#吃瓜榜单$mrdg#热门大瓜$rdsj#必看大瓜$bkdg#看片娱乐$ysyl#学生校园$xsxy#网红黑料$whhl#明星黑料$whmx#海外吃瓜$hwcg#51涨知识$zzs#吃瓜看戏$qubk#领导干部$ldcg#51剧场乐$51djc#伦理道德$lldd#社交媒体$sjmt#擦边撩骚$dcbq#骚男骚女$snsn"
-      }
-    },
+          {
+            "key": "黑料",
+            "name": "拾光┃黑料",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"./HeChengChaXiu.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+            "发布地址": "https://155.fun/",
+            "直接播放": "1",
+            "免嗅": "1",
+            "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
+            "图片": "onload=\"loadImg(this,'&&')\"",
+            "标题": "title\" data-v-a51695bc>&&</div>",
+            "副标题": "ishot\" data-v-a51695bc>&&</div>",
+            "链接": "href=\"&&\"",
+            "播放数组": "<div class='dplayer&&</div>",
+            "播放列表": "'{&&}'",
+            "播放链接": "\"url\":\"&&\"",
+            "分类url": "https://1gca.iemixovyt.com/category/{cateId}/{catePg}.html",
+            "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
+            "分类值": "9&1&4&2&12&3&7&6&8&10&11"
+       }
+        },
+          {
+            "key": "51黑料",
+            "name": "51┃黑料",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"./HeChengChaXiu.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+            "发布地址": "https://51cg011.com/",
+            "直接播放": "1",
+            "免嗅": "1",
+            "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
+            "图片": "onload=\"loadImg(this,'&&')\"",
+            "标题": "title\" data-v-a51695bc>&&</div>",
+            "副标题": "ishot\" data-v-a51695bc>&&</div>",
+            "链接": "href=\"&&\"",
+            "播放数组": "<div class='dplayer&&</div>",
+            "播放列表": "'{&&}'",
+            "播放链接": "\"url\":\"&&\"",
+            "分类url": "https://wikis4.obcde1.com/category/{cateId}/{catePg}.html",
+            "分类": "今日吃瓜$wpcz#吃瓜榜单$mrdg#热门大瓜$rdsj#必看大瓜$bkdg#看片娱乐$ysyl#学生校园$xsxy#网红黑料$whhl#明星黑料$whmx#海外吃瓜$hwcg#51涨知识$zzs#吃瓜看戏$qubk#领导干部$ldcg#51剧场乐$51djc#伦理道德$lldd#社交媒体$sjmt#擦边撩骚$dcbq#骚男骚女$snsn"
+       }
+        },
     {
       "key": "bttcj.com",
       "name": "BT天堂-伦理",
