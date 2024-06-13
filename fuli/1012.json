@@ -54,7 +54,7 @@
       "name": "51┃黑料",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gh.sixyin.com/https://raw.githubusercontent.com/Miao9639/HTML/main/fuli/jar/HeChengChaXiu.jar",
+      "jar":"./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -71,7 +71,7 @@
       "播放列表": "'{&&}'",
       "播放链接": "\"url\":\"&&\"",
       "分类url": "https://wikis4.obcde1.com/category/{cateId}/{catePg}.html",
-      "分类": "今日吃瓜&吃瓜榜单&热门大瓜&必看大瓜&看片娱乐&学生校园&网红黑料&明星黑料&海外吃瓜&51涨知识&吃瓜看戏&领导干部&51剧场乐&伦理道德&社交媒体&擦边撩骚&骚男骚女"
+      "分类": "今日吃瓜&吃瓜榜单&热门大瓜&必看大瓜&看片娱乐&学生校园&网红黑料&明星黑料&海外吃瓜&51涨知识&吃瓜看戏&领导干部&51剧场乐&伦理道德&社交媒体&擦边撩骚&骚男骚女",
       "分类值": "wpcz&mrdg&rdsj&bkdg&ysyl&xsxy&whhl&6&whmx&whmx&hwcg&zzs&qubk&ldcg&51djc&lldd&sjmt&dcbq&snsn"
    }
     },
