@@ -12,20 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "配置中心",
-      "name": "👨‍🍳‍配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/okpng.jar;md5;f7fabb6a8a7aed99a4d1a3608ed043a2",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-    {
       "key": "我的阿里",
       "name": "🐱我的┃阿里",
       "type": 3,
@@ -187,6 +173,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://czzy.top/"
+    },
+    {
+      "key": "蛋蛋",
+      "name": "🍓蛋蛋┃多线",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "DiDuan",
